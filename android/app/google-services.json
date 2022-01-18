@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483618946961",
+    "project_id": "signin-3bf60",
+    "storage_bucket": "signin-3bf60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483618946961:android:78d7230e650a9562b96430",
+        "android_client_info": {
+          "package_name": "com.example.laundry_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483618946961-gh2rjl4b5qh75muj226opmqk2ol4v66f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr0ybHZHoYsFY_uo6d2kOAqJ2cxNzvYBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483618946961-gh2rjl4b5qh75muj226opmqk2ol4v66f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
